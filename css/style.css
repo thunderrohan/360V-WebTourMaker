@@ -4,22 +4,48 @@ body, html {
     width: 100%;
     height: 100%;
     overflow: hidden; /* Hide scrollbars */
-  }
-  .upload-label {
+}
+
+/* Style the upload button */
+.upload-label {
     position: fixed;
     top: 20px;
-    left: 20px;
-    background: #fff;
-    padding: 10px;
+    left: 50%;
+    transform: translateX(-50%); /* Center horizontally */
+    background: #4CAF50; /* Green color */
+    color: white;
+    padding: 12px 24px;
     border-radius: 5px;
     cursor: pointer;
-    z-index: 9999; /* Ensure it’s above the canvas */
-  }
+    border: 2px solid #45a049; /* Darker green border */
+    font-family: Arial, sans-serif;
+    transition: background 0.3s;
+    z-index: 9999;
+}
+.upload-label:hover {
+    background: #45a049; /* Darker green on hover */
+}
 
-  #canvas-3d {
+/* Style the instruction text */
+.instruction-text {
+  position: fixed;
+  top: 70px; /* Adjust based on button height */
+  left: 50%;
+  transform: translateX(-50%);
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+  padding: 8px;
+  border-radius: 4px;
+  z-index: 9999;
+}
+
+#canvas-3d {
     width: 100vw; /* Full viewport width */
     height: 100vh; /* Full viewport height */
-  }
+}
 
 button {  
     padding: 10px;  
