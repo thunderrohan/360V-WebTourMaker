@@ -5,7 +5,17 @@ body, html {
     height: 100%;
     overflow: hidden; /* Hide scrollbars */
   }
-  
+  .upload-label {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 9999; /* Ensure it’s above the canvas */
+  }
+
   #canvas-3d {
     width: 100vw; /* Full viewport width */
     height: 100vh; /* Full viewport height */
@@ -14,4 +24,4 @@ body, html {
 button {  
     padding: 10px;  
     margin: 10px;  
-}  
+}
