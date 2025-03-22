@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden; /* Hide scrollbars */
+  }
+  
+  #canvas-3d {
+    width: 100vw; /* Full viewport width */
+    height: 100vh; /* Full viewport height */
+  }
+
+button {  
+    padding: 10px;  
+    margin: 10px;  
+}  
