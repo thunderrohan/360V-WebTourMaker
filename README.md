@@ -20,9 +20,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-**Developer**: [Rohan Kumar Sahu](https://github.com/thunderrohan)
-**Project Repository**: [360V-WebTourMaker](https://github.com/thunderrohan/360V-WebTourMaker)
-**Tools Used**: Three.js, JavaScript, HTML5/CSS3
+**Developer**: [Rohan Kumar Sahu](https://github.com/thunderrohan) 
+**Project Repository**: [360V-WebTourMaker](https://github.com/thunderrohan/360V-WebTourMaker) 
+**Tools Used**: Three.js, JavaScript, HTML5/CSS3 
 Created this for my College Minor Project
 
 ## Acknowledgments
