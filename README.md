@@ -19,10 +19,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Credits
-**Developer**: [Rohan Kumar Sahu](https://github.com/thunderrohan) .
-**Project Repository**: [360V-WebTourMaker](https://github.com/thunderrohan/360V-WebTourMaker) .
-**Tools Used**: Three.js, JavaScript, HTML5/CSS3 .
-Created this for my College Minor Project .
+
+**Developer**: [Rohan Kumar Sahu](https://github.com/thunderrohan)
+**Project Repository**: [360V-WebTourMaker](https://github.com/thunderrohan/360V-WebTourMaker)
+**Tools Used**: Three.js, JavaScript, HTML5/CSS3
+Created this for my College Minor Project
 
 ## Acknowledgments
 - Three.js [documentation](https://threejs.org/docs/) for 360° viewer examples
