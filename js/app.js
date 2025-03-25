@@ -1,3 +1,6 @@
+// Copyright (c) 2025, Rohan Kumar Sahu
+// SPDX-License-Identifier: MIT
+
 // Import Three.js and OrbitControls
 //Using CDN Links for Modules (No Local Files)
 import * as THREE from 'https://cdn.skypack.dev/three@0.136.0';
