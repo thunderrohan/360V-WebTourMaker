@@ -1,5 +1,7 @@
 # 360° Virtual - Web Tour Maker
 
+## Project Description
+A web-based 360° virtual tour viewer with panoramic image upload functionality, built using Three.js.
 Upload and view 360° panoramas!  
 👉 [Live Demo](https://thunderrohannn.github.io/360V-WebTourMaker/)  
 
@@ -12,9 +14,14 @@ Upload and view 360° panoramas!
 2. Select a 360° image (e.g., from your phone).  
 3. Drag to explore!
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Credits
 **Developer**: [Rohan Kumar Sahu](https://github.com/thunderrohannn)
-**Tools Used**: Three.js, JavaScript, HTML5/CSS3  
+**Project Repository**: [360V-WebTourMaker](https://github.com/thunderrohannn/360V-WebTourMaker)
+**Tools Used**: Three.js, JavaScript, HTML5/CSS3
 Created this for my College Minor Project.
 
 ## Acknowledgments
