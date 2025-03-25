@@ -11,3 +11,5 @@ Upload and view 360° panoramas!
 1. Click "Upload Panorama".  
 2. Select a 360° image (e.g., from your phone).  
 3. Drag to explore!
+
+Created this for my College Minor Project.
